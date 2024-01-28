@@ -3,8 +3,6 @@ Diligent and detail-oriented Data Analyst with a passion for transforming comple
 
 Data Analysis: Proficient in analyzing large datasets to extract meaningful insights and trends. Experienced in data cleaning, manipulation, and transformation.
 
-Statistical Analysis: Skilled in applying statistical methods to interpret data, conduct hypothesis testing, and make data-driven recommendations.
-
 Data Visualization: Expertise in creating clear and compelling visualizations using tools like Tableau, Power BI, and matplotlib to communicate complex findings effectively.
 
 Programming: Proficient in Python for data analysis and automation tasks. Familiar with libraries such as Pandas, NumPy, and SciPy.
